@@ -114,9 +114,11 @@
   max-width: 760px;
   margin: auto;
   margin-top: 68px;
+  margin-bottom: 40px;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: center;
+  padding-left: 40px;
   gap: 40px;
   list-style-type: none;
 }
